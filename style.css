@@ -4,3 +4,12 @@ p.a {
     
 }
 
+.b{
+    word-wrap: break-word;
+    width: 780px;
+}
+
+.bb{
+    word-wrap: break-word;
+    width: 780px;
+}

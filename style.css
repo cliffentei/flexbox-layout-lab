@@ -1,15 +1,23 @@
+nav{
+    display:flex;
+    justify-content:space-between;
+}
+.nav-links{
+    display:flex;
+    justify-content:space-around;
+}
 p.a {
     word-wrap:break-word;
-    width:330px;
+    /*width:330px;*/
     
 }
 
 .b{
     word-wrap: break-word;
-    width: 780px;
+    /*width: 780px;*/
 }
 
 .bb{
     word-wrap: break-word;
-    width: 780px;
+    /*width: 780px;*/
 }
